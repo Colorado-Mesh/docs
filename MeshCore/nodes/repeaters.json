@@ -8,7 +8,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-CMRCE-TWR96-RE-0100&public_key=01001481D210204B30EB758CCD3961A376F7A0F6529920290906524DD7A2C9B1&type=2",
     "created_at": 1772170634,
-    "last_heard": 1772866498
+    "last_heard": 1772880899
   },
   {
     "public_key": "01813D6FF6B9D132D54BE7E7B0520CFAAA74C4947EF26FAF876BFB1FAEBB635D",
@@ -41,7 +41,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-CMRCE-TWR96-RE-0300&public_key=03005D58F7ACE1F0CDCF8D481CF566293863FD8F218B9EEDA72643C354421B5B&type=2",
     "created_at": 1771385565,
-    "last_heard": 1772837865
+    "last_heard": 1772881050
   },
   {
     "public_key": "04B079DE68BDE67FB1994CC7D3BD788D9D8503AEBC574875105C3431FDAA4C64",
@@ -52,7 +52,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=CO-CENT-DAGGER71-2004&public_key=04B079DE68BDE67FB1994CC7D3BD788D9D8503AEBC574875105C3431FDAA4C64&type=2",
     "created_at": 1771889296,
-    "last_heard": 1772850708
+    "last_heard": 1772879274
   },
   {
     "public_key": "0700FECD503EFBF79EE0D400FBF0DFB7C1A3DA95BE0E71AB1BA8DA3D1BD0D0B3",
@@ -173,7 +173,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-DENVR-RUBY-RE-1472&public_key=147250E3D14C12452BC4A79D884B3129AE06A87647C8DA4970A242993733864D&type=2",
     "created_at": 1770330796,
-    "last_heard": 1772832011
+    "last_heard": 1772875212
   },
   {
     "public_key": "155ADFBBBE665DF23921DDF2671CB9408BF5DE1D1C8380C53088934911FBA8D6",
@@ -404,7 +404,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=HR%20Town%20Center%20Repeater&public_key=489C3AECC77A5F10B5BF5D0AB604847B160610B99A6D08414A49FD5DD69080FA&type=2",
     "created_at": 1772024224,
-    "last_heard": 1772866642
+    "last_heard": 1772877443
   },
   {
     "public_key": "4A283EC34077D3411FF13A4BCAB97BDA516E2E552A96DA6F259AAE78C955E88C",
@@ -547,7 +547,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LOOKOUT-MTN-RC-6a60&public_key=6A60D10EDF45F344AFFE930BF217BAF0C7F8737F9BDDF6589171C3BC9A1DDE12&type=2",
     "created_at": 1770402383,
-    "last_heard": 1772859120
+    "last_heard": 1772880722
   },
   {
     "public_key": "6AD16640EB52FA2D6EC46F493A374FC26965B91AA796251930BDF6D69E50068A",
@@ -668,7 +668,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LFYTE-OLDTWN-RE02&public_key=74EED066945A8820542D3E984D573D7E5666091CA8D2A44782DA78D3A573617B&type=2",
     "created_at": 1771778542,
-    "last_heard": 1772872976
+    "last_heard": 1772880176
   },
   {
     "public_key": "74DAB41F446AE7128BDDE376009B2073B1E8F2A9958FC31DD4F3FDA43C890003",
@@ -701,7 +701,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=%F0%9F%90%BA%20Meadowood%20Room&public_key=7BC042F4C47C3539BBEF6C2FA520A9553B0C44E8EFEF2A3D90A39BE2FE7C7F4B&type=2",
     "created_at": 1770314962,
-    "last_heard": 1772865542
+    "last_heard": 1772876341
   },
   {
     "public_key": "8072F2CF9CD9352E7888F1186A08157B87F63BEABD04DAB9DA5BE5907D54F07E",
@@ -746,6 +746,17 @@
     "contact": "meshcore://contact/add?name=FNL-LOVE-TWNNW-RE-8381&public_key=8381B18D168966ADE562D958DC2217E4D06974C3254A5D4E0DD48C0239655B66&type=2",
     "created_at": 1770515448,
     "last_heard": 1772631191
+  },
+  {
+    "public_key": "8324E1CDEC5883A8BDBB7AF34A520131D9631161D6DFAF428EEB5ED24527B9EE",
+    "name": "FNL-FOCO-VlgeWst-RE-832",
+    "latitude": 40.55728,
+    "longitude": -105.11466,
+    "node_type": 4,
+    "is_observer": false,
+    "contact": "meshcore://contact/add?name=FNL-FOCO-VlgeWst-RE-832&public_key=8324E1CDEC5883A8BDBB7AF34A520131D9631161D6DFAF428EEB5ED24527B9EE&type=2",
+    "created_at": 1772879689,
+    "last_heard": 1772879686
   },
   {
     "public_key": "86EC9B39180A531D71153244B8B780EE1518AA01989DC61952115D4765468E67",
@@ -921,7 +932,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LTTN-DakRg-RE-b5f3&public_key=B5F38AE3502B631357AEAA8C7C5F4645B5137C13CEB876B1044C899A6A278E60&type=2",
     "created_at": 1770322631,
-    "last_heard": 1772871775
+    "last_heard": 1772878975
   },
   {
     "public_key": "B640E50CD12E2F6D65D75B7826BB0E346D4E6A6A9083808B4B077E45F5526886",
@@ -954,7 +965,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LTTN-CNRSTN-RE-BAE1&public_key=BAE111B53734A6953309101549BAA71DB9C6A0AE40E976E52A0CD1DBF7927AA7&type=2",
     "created_at": 1771110078,
-    "last_heard": 1772869360
+    "last_heard": 1772880160
   },
   {
     "public_key": "BC08EB115F62DA3FE4C0F9B6359C88877A1DD0118922912AF240DA926E2D6C55",
@@ -1053,7 +1064,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=FNL-FoCo-Leshr-RE-C567&public_key=C5672AEBAB304B06EBAE04B0FBE50CEC4F60B0CF266A08A1D6814449C4CD7035&type=2",
     "created_at": 1771172633,
-    "last_heard": 1772873445
+    "last_heard": 1772880645
   },
   {
     "public_key": "C502DD07EADACF4BE8C809502BF08CB6B7C1374C129C29E60E30BB8F5BA155B2",
@@ -1064,7 +1075,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LFTYE-CTYHALL-RE03&public_key=C502DD07EADACF4BE8C809502BF08CB6B7C1374C129C29E60E30BB8F5BA155B2&type=2",
     "created_at": 1771797364,
-    "last_heard": 1772873264
+    "last_heard": 1772880464
   },
   {
     "public_key": "C6089AA14B0BD29F3DD0714398B35A934BE3CD3FFBE262272B8B2FE9A01AA286",
@@ -1152,7 +1163,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-CMRCE-TWR96-RE-DA0B&public_key=DA0BBA8B26CA680D6A05FFD28431FB0983C91D3E88F10ACA1CD535FE73310459&type=2",
     "created_at": 1770314334,
-    "last_heard": 1772873470
+    "last_heard": 1772880670
   },
   {
     "public_key": "DC497D7BCDCB9B3FB9DFB9829515CE3B349D7E3CF458AAC8940A6BF9CE4CA526",
@@ -1273,7 +1284,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LTTN-CHATF-RE-E8D0&public_key=E8D03D8E806777C66AEA16CD4A292F87480CEDC247FC4E06750EAF923638BA37&type=2",
     "created_at": 1771884749,
-    "last_heard": 1772870279
+    "last_heard": 1772880943
   },
   {
     "public_key": "EB0EE9FED24DFE987973BB489F1F10453B8C64CE73637E73968D7649A676A423",
@@ -1306,7 +1317,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=K5NWZ.com%20MC%20Solar&public_key=F85CAD772EC0DB4F7C731FEC8DDD34983BEEBECC2AC02CD39D35526D28E1276C&type=2",
     "created_at": 1770661593,
-    "last_heard": 1772853636
+    "last_heard": 1772875238
   },
   {
     "public_key": "FA8FD3DEA565BD6AC7B41663A07428D73A651F9308CFF777F8CB53666A9679AB",
@@ -1317,7 +1328,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LFYTE-CTYHALL-RE01&public_key=FA8FD3DEA565BD6AC7B41663A07428D73A651F9308CFF777F8CB53666A9679AB&type=2",
     "created_at": 1770313092,
-    "last_heard": 1772872979
+    "last_heard": 1772880179
   },
   {
     "public_key": "FB80FB278945CBC85DF08665164504B59A560FC3774BE3C45DBF864BDD0A76BF",
