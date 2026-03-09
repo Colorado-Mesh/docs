@@ -8,7 +8,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-CMRCE-TWR96-RE-0100&public_key=01001481D210204B30EB758CCD3961A376F7A0F6529920290906524DD7A2C9B1&type=2",
     "created_at": 1772170634,
-    "last_heard": 1773082502
+    "last_heard": 1773096903
   },
   {
     "public_key": "01813D6FF6B9D132D54BE7E7B0520CFAAA74C4947EF26FAF876BFB1FAEBB635D",
@@ -41,7 +41,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-CMRCE-TWR96-RE-0300&public_key=03005D58F7ACE1F0CDCF8D481CF566293863FD8F218B9EEDA72643C354421B5B&type=2",
     "created_at": 1771385565,
-    "last_heard": 1773053853
+    "last_heard": 1773097054
   },
   {
     "public_key": "04B079DE68BDE67FB1994CC7D3BD788D9D8503AEBC574875105C3431FDAA4C64",
@@ -206,7 +206,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=Mines%20Mesh&public_key=155ADFBBBE665DF23921DDF2671CB9408BF5DE1D1C8380C53088934911FBA8D6&type=2",
     "created_at": 1772108233,
-    "last_heard": 1773011321
+    "last_heard": 1773097724
   },
   {
     "public_key": "17C5BB0C4DD2C7013EAE3D2B0469CF5A792CB7478E86C6AE37C5693DC1E73295",
@@ -272,7 +272,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=FNL-LOVE-LAKELV-RE-1F88&public_key=1F88FBAFD88B1942A74B6011E8ED5B67BDC0F54C84E4450DCF3556DB2E691553&type=2",
     "created_at": 1771971841,
-    "last_heard": 1773008664
+    "last_heard": 1773095067
   },
   {
     "public_key": "1F2879E28B7648AA2F8DA8AC354FEB21100AFBCE57DEB3ADBF8356846D836465",
@@ -360,7 +360,18 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-ENGL-TEST-RE&public_key=2FEA2F986BD1B2489C7EA4335FE2EA763B12D8D2FFF0CD566A77693FE1AEE270&type=2",
     "created_at": 1771712278,
-    "last_heard": 1773073072
+    "last_heard": 1773094670
+  },
+  {
+    "public_key": "3470EE9B9266593E81FB3F7B0A2F14C296CAF3174A688CD6F9DAA170C6DF5FFD",
+    "name": "DEN-UNION-RE-3470",
+    "latitude": 39.75454,
+    "longitude": -105.00183,
+    "node_type": 4,
+    "is_observer": false,
+    "contact": "meshcore://contact/add?name=DEN-UNION-RE-3470&public_key=3470EE9B9266593E81FB3F7B0A2F14C296CAF3174A688CD6F9DAA170C6DF5FFD&type=2",
+    "created_at": 1773095236,
+    "last_heard": 1773095232
   },
   {
     "public_key": "353511932D922A81EA8198BFA3E7CA5860EFE4FB01B9991A32EE9928FBFA99CB",
@@ -624,7 +635,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LOOKOUT-MTN-RC-6a60&public_key=6A60D10EDF45F344AFFE930BF217BAF0C7F8737F9BDDF6589171C3BC9A1DDE12&type=2",
     "created_at": 1770402383,
-    "last_heard": 1773075125
+    "last_heard": 1773096726
   },
   {
     "public_key": "6AD16640EB52FA2D6EC46F493A374FC26965B91AA796251930BDF6D69E50068A",
@@ -756,7 +767,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LFYTE-OLDTWN-RE02&public_key=74EED066945A8820542D3E984D573D7E5666091CA8D2A44782DA78D3A573617B&type=2",
     "created_at": 1771778542,
-    "last_heard": 1773092577
+    "last_heard": 1773096177
   },
   {
     "public_key": "74DAB41F446AE7128BDDE376009B2073B1E8F2A9958FC31DD4F3FDA43C890003",
@@ -1031,7 +1042,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-DENVR-CNGPK-RM-B287&public_key=B2876BC5AF0D1FBCCA184D1074E7C2871705F7D196BD35FEB30159AC5719AA40&type=2",
     "created_at": 1772988444,
-    "last_heard": 1773089330
+    "last_heard": 1773095087
   },
   {
     "public_key": "B4C4E467BEB4B535BC3E7FA821E0A6349558F820536CCF44088F5B3F6FB18373",
@@ -1053,7 +1064,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LTTN-DakRg-RE-b5f3&public_key=B5F38AE3502B631357AEAA8C7C5F4645B5137C13CEB876B1044C899A6A278E60&type=2",
     "created_at": 1770322631,
-    "last_heard": 1773092230
+    "last_heard": 1773095816
   },
   {
     "public_key": "B640E50CD12E2F6D65D75B7826BB0E346D4E6A6A9083808B4B077E45F5526886",
@@ -1086,7 +1097,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LTTN-CNRSTN-RE-BAE1&public_key=BAE111B53734A6953309101549BAA71DB9C6A0AE40E976E52A0CD1DBF7927AA7&type=2",
     "created_at": 1771110078,
-    "last_heard": 1773085363
+    "last_heard": 1773096160
   },
   {
     "public_key": "BC08EB115F62DA3FE4C0F9B6359C88877A1DD0118922912AF240DA926E2D6C55",
@@ -1141,7 +1152,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-DENVR-CNGPK-RE-C287&public_key=C2874D6024FDC0DF0BB15F2422B6D6AAAF0981095647E7CA2E1DB237E316B637&type=2",
     "created_at": 1772901219,
-    "last_heard": 1773084311
+    "last_heard": 1773097534
   },
   {
     "public_key": "C3B4CA5B94C812EA08E6118833E48D34B190E8EE74BFED10578C737BBC2CB0C6",
@@ -1174,7 +1185,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=FNL-FoCo-Leshr-RE-C567&public_key=C5672AEBAB304B06EBAE04B0FBE50CEC4F60B0CF266A08A1D6814449C4CD7035&type=2",
     "created_at": 1771172633,
-    "last_heard": 1773093047
+    "last_heard": 1773096647
   },
   {
     "public_key": "C502DD07EADACF4BE8C809502BF08CB6B7C1374C129C29E60E30BB8F5BA155B2",
@@ -1185,7 +1196,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LFTYE-CTYHALL-RE03&public_key=C502DD07EADACF4BE8C809502BF08CB6B7C1374C129C29E60E30BB8F5BA155B2&type=2",
     "created_at": 1771797364,
-    "last_heard": 1773092867
+    "last_heard": 1773096467
   },
   {
     "public_key": "C6089AA14B0BD29F3DD0714398B35A934BE3CD3FFBE262272B8B2FE9A01AA286",
@@ -1284,7 +1295,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-CMRCE-TWR96-RE-DA0B&public_key=DA0BBA8B26CA680D6A05FFD28431FB0983C91D3E88F10ACA1CD535FE73310459&type=2",
     "created_at": 1770314334,
-    "last_heard": 1773093068
+    "last_heard": 1773096668
   },
   {
     "public_key": "DC497D7BCDCB9B3FB9DFB9829515CE3B349D7E3CF458AAC8940A6BF9CE4CA526",
@@ -1350,7 +1361,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-MT-MORRISON-RC-e2b7&public_key=E2B72E3287DA57772C45EFDEB72394070E79A4BA4364698F8BB6569C9668D93D&type=2",
     "created_at": 1770402671,
-    "last_heard": 1773011565
+    "last_heard": 1773097951
   },
   {
     "public_key": "E46740FE08AC1A2A88E57EBFC84E454598494A8C9D924BD89EC9C58289A7F9F4",
@@ -1471,7 +1482,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LFYTE-CTYHALL-RE01&public_key=FA8FD3DEA565BD6AC7B41663A07428D73A651F9308CFF777F8CB53666A9679AB&type=2",
     "created_at": 1770313092,
-    "last_heard": 1773092583
+    "last_heard": 1773096184
   },
   {
     "public_key": "FB80FB278945CBC85DF08665164504B59A560FC3774BE3C45DBF864BDD0A76BF",
