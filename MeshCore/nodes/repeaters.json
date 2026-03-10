@@ -756,7 +756,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LFYTE-OLDTWN-RE02&public_key=74EED066945A8820542D3E984D573D7E5666091CA8D2A44782DA78D3A573617B&type=2",
     "created_at": 1771778542,
-    "last_heard": 1773175377
+    "last_heard": 1773178977
   },
   {
     "public_key": "74DAB41F446AE7128BDDE376009B2073B1E8F2A9958FC31DD4F3FDA43C890003",
@@ -789,7 +789,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=%F0%9F%90%BA%20Meadowood%20Room&public_key=7BC042F4C47C3539BBEF6C2FA520A9553B0C44E8EFEF2A3D90A39BE2FE7C7F4B&type=2",
     "created_at": 1770314962,
-    "last_heard": 1773168978
+    "last_heard": 1773179777
   },
   {
     "public_key": "8072F2CF9CD9352E7888F1186A08157B87F63BEABD04DAB9DA5BE5907D54F07E",
@@ -998,7 +998,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-DENVR-CNGPK-RM-B287&public_key=B2876BC5AF0D1FBCCA184D1074E7C2871705F7D196BD35FEB30159AC5719AA40&type=2",
     "created_at": 1772988444,
-    "last_heard": 1773169574
+    "last_heard": 1773177858
   },
   {
     "public_key": "B4C4E467BEB4B535BC3E7FA821E0A6349558F820536CCF44088F5B3F6FB18373",
@@ -1020,7 +1020,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LTTN-DakRg-RE-b5f3&public_key=B5F38AE3502B631357AEAA8C7C5F4645B5137C13CEB876B1044C899A6A278E60&type=2",
     "created_at": 1770322631,
-    "last_heard": 1773176759
+    "last_heard": 1773180359
   },
   {
     "public_key": "B640E50CD12E2F6D65D75B7826BB0E346D4E6A6A9083808B4B077E45F5526886",
@@ -1065,6 +1065,17 @@
     "contact": "meshcore://contact/add?name=Heltec%20Repeater&public_key=BC08EB115F62DA3FE4C0F9B6359C88877A1DD0118922912AF240DA926E2D6C55&type=2",
     "created_at": 1771250012,
     "last_heard": 1771251414
+  },
+  {
+    "public_key": "BCB2C9AAD7438002B34FC818EBB22F1BAD0AE21B38C38E0D52BD26DC8CC6114D",
+    "name": "High Point Room",
+    "latitude": 39.64769,
+    "longitude": -104.76854,
+    "node_type": 4,
+    "is_observer": false,
+    "contact": "meshcore://contact/add?name=High%20Point%20Room&public_key=BCB2C9AAD7438002B34FC818EBB22F1BAD0AE21B38C38E0D52BD26DC8CC6114D&type=2",
+    "created_at": 1773179581,
+    "last_heard": 1773179578
   },
   {
     "public_key": "BDBDE49A416CC66A205944DB65155F728E1F3F378319821BABE5810190116BE3",
@@ -1141,7 +1152,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=FNL-FoCo-Leshr-RE-C567&public_key=C5672AEBAB304B06EBAE04B0FBE50CEC4F60B0CF266A08A1D6814449C4CD7035&type=2",
     "created_at": 1771172633,
-    "last_heard": 1773175847
+    "last_heard": 1773179447
   },
   {
     "public_key": "C502DD07EADACF4BE8C809502BF08CB6B7C1374C129C29E60E30BB8F5BA155B2",
@@ -1152,7 +1163,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LFTYE-CTYHALL-RE03&public_key=C502DD07EADACF4BE8C809502BF08CB6B7C1374C129C29E60E30BB8F5BA155B2&type=2",
     "created_at": 1771797364,
-    "last_heard": 1773175668
+    "last_heard": 1773179268
   },
   {
     "public_key": "C6089AA14B0BD29F3DD0714398B35A934BE3CD3FFBE262272B8B2FE9A01AA286",
@@ -1262,7 +1273,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-CMRCE-TWR96-RE-DA0B&public_key=DA0BBA8B26CA680D6A05FFD28431FB0983C91D3E88F10ACA1CD535FE73310459&type=2",
     "created_at": 1770314334,
-    "last_heard": 1773175867
+    "last_heard": 1773179467
   },
   {
     "public_key": "DC497D7BCDCB9B3FB9DFB9829515CE3B349D7E3CF458AAC8940A6BF9CE4CA526",
@@ -1372,7 +1383,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-DNVR-TWNLKS-TS-e70c&public_key=E70C577FB423E628BA94390FB6E5CCD7809D353546D17378CB19A6082BC0274B&type=2",
     "created_at": 1772443837,
-    "last_heard": 1773091838
+    "last_heard": 1773178236
   },
   {
     "public_key": "E7548056CE16DD64D5F5F0A8F9712E2D1C2C80BA618343F04A6BE40471BD4C73",
@@ -1449,7 +1460,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LFYTE-CTYHALL-RE01&public_key=FA8FD3DEA565BD6AC7B41663A07428D73A651F9308CFF777F8CB53666A9679AB&type=2",
     "created_at": 1770313092,
-    "last_heard": 1773175385
+    "last_heard": 1773178985
   },
   {
     "public_key": "FB80FB278945CBC85DF08665164504B59A560FC3774BE3C45DBF864BDD0A76BF",
@@ -1482,6 +1493,6 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=%F0%9F%98%90CO-DENVER-Brdway-RE&public_key=FE0925C876C77F459E2AE16CF3E1F3926850F475DF1AFEFC872D98F1956F0EE5&type=2",
     "created_at": 1771051569,
-    "last_heard": 1773168347
+    "last_heard": 1773179151
   }
 ]
