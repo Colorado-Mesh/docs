@@ -228,7 +228,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=%F0%9F%8F%B4%20CO-WESTM-CASTLE-RE&public_key=1BB094A32CAF15729857125F2AFEF091223A868DB6637E59845692C29AAC6F07&type=2",
     "created_at": 1770421441,
-    "last_heard": 1773219304
+    "last_heard": 1773230106
   },
   {
     "public_key": "1CBE2255A73239C574DC45E3E839A98CB3BC878B9C83930DA5C2C59A145570A8",
@@ -415,7 +415,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-AURRA-HIPNT-RE-430D&public_key=430DFDD2D395F224657619D8D59562898043C93BD49977B1FABAA8119DB2F713&type=2",
     "created_at": 1772854122,
-    "last_heard": 1773216884
+    "last_heard": 1773231284
   },
   {
     "public_key": "453B6CA0919E998D049B2015C738F3A91E9D53F27BDB1E35D6DAD5B21B717517",
@@ -613,7 +613,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-AURRA-MWOOD-RE-68AE&public_key=68AEEA924538EAFC81FA8923DFB758CAFA4B41812013D12E213D95A54C7F714E&type=2",
     "created_at": 1770314744,
-    "last_heard": 1773215005
+    "last_heard": 1773229405
   },
   {
     "public_key": "68061541DA90125087002552C4D010A409B26AC643EBC986ED4DEF7CDE7DAD7D",
@@ -701,7 +701,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-GRELY-LnkPk-RE-6F0B&public_key=6F0B2E3F40335FD305584B322660DC986CD702ADF54F3D901B661EB073C3F310&type=2",
     "created_at": 1771284132,
-    "last_heard": 1773216524
+    "last_heard": 1773230924
   },
   {
     "public_key": "703C34F12A0F41405F671CE1BF1225508BDC52553B64CB2456C1DF08CA257962",
@@ -1141,7 +1141,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=FNL-FoCo-Leshr-RE-C567&public_key=C5672AEBAB304B06EBAE04B0FBE50CEC4F60B0CF266A08A1D6814449C4CD7035&type=2",
     "created_at": 1771172633,
-    "last_heard": 1773226248
+    "last_heard": 1773229848
   },
   {
     "public_key": "C502DD07EADACF4BE8C809502BF08CB6B7C1374C129C29E60E30BB8F5BA155B2",
@@ -1152,7 +1152,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LFTYE-CTYHALL-RE03&public_key=C502DD07EADACF4BE8C809502BF08CB6B7C1374C129C29E60E30BB8F5BA155B2&type=2",
     "created_at": 1771797364,
-    "last_heard": 1773226068
+    "last_heard": 1773229668
   },
   {
     "public_key": "C6089AA14B0BD29F3DD0714398B35A934BE3CD3FFBE262272B8B2FE9A01AA286",
@@ -1207,7 +1207,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-DENVR-UNION-RS-D052&public_key=D0528E2020D09D6C2D0A372084FBE24B25703F07E1AF85BA9072A4153493D253&type=2",
     "created_at": 1773100442,
-    "last_heard": 1773186071
+    "last_heard": 1773229270
   },
   {
     "public_key": "D32EC041E7A62684C527333D9C43C01419C78B063658B8464C49D4F0FF25ACB6",
@@ -1262,7 +1262,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-CMRCE-TWR96-RE-DA0B&public_key=DA0BBA8B26CA680D6A05FFD28431FB0983C91D3E88F10ACA1CD535FE73310459&type=2",
     "created_at": 1770314334,
-    "last_heard": 1773226266
+    "last_heard": 1773229866
   },
   {
     "public_key": "DC497D7BCDCB9B3FB9DFB9829515CE3B349D7E3CF458AAC8940A6BF9CE4CA526",
@@ -1397,6 +1397,17 @@
     "last_heard": 1772905839
   },
   {
+    "public_key": "F0E3488A6EC8738F75B68B99E338C5D4ED6F7BC5FDF5C6F85ED5DE1BE9603EF2",
+    "name": "Lory Repeater",
+    "latitude": 40.599722,
+    "longitude": -105.186788,
+    "node_type": 4,
+    "is_observer": false,
+    "contact": "meshcore://contact/add?name=Lory%20Repeater&public_key=F0E3488A6EC8738F75B68B99E338C5D4ED6F7BC5FDF5C6F85ED5DE1BE9603EF2&type=2",
+    "created_at": 1773227885,
+    "last_heard": 1773227882
+  },
+  {
     "public_key": "F760BE33C950E45C65C56A8DCC0AB22D6AC437663BFA7D2AE0746DC319E3BD61",
     "name": "DEN-HGHLN-PLMNO-RE-F760",
     "latitude": 39.55859,
@@ -1427,7 +1438,7 @@
     "is_observer": false,
     "contact": "meshcore://contact/add?name=DEN-LFYTE-CTYHALL-RE01&public_key=FA8FD3DEA565BD6AC7B41663A07428D73A651F9308CFF777F8CB53666A9679AB&type=2",
     "created_at": 1770313092,
-    "last_heard": 1773225786
+    "last_heard": 1773229386
   },
   {
     "public_key": "FB80FB278945CBC85DF08665164504B59A560FC3774BE3C45DBF864BDD0A76BF",
